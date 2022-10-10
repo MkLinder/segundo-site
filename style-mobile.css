@@ -29,8 +29,8 @@ h1 {
     color: #ecd1ec;
     text-shadow: 0px 0px 10px #a894a8;
     text-align: center;
-    position: fixed;
-    top: 28%;
+    position: relative;
+    top: 50%;
     left: 18%;
     display: inline-block;
 
@@ -42,9 +42,9 @@ header > p#to {
     font-weight: bold;
     color: #ecd1ec;
     text-shadow: 0px 0px 10px #a894a8;
-    position: fixed;
-    top: 34%;
-    left: 79%; 
+    position: relative;
+    top: 50.2%;
+    left: 17.5%; 
     display: inline-block;
 
 }
@@ -55,9 +55,9 @@ header > p#ta {
     font-weight: bold;
     color: #060a0df5;
     text-shadow: 2px 1px 8px #ecd1ecb2;
-    position: fixed;
-    top: 36.9%;
-    left: 49%; 
+    position: relative;
+    top: 54.2%;
+    left: -8.8%; 
     display: inline-block;
        
 }
